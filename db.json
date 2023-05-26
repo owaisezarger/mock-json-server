@@ -7,26 +7,5 @@
       "email": "owaise@mail.com"
     }
   ],
-  "appointments": [
-    {
-      "name": "Jane Doe",
-      "image": "https://img.freepik.com/free-vector/doctor-character-background_1270-84.jpg?w=2000",
-      "specialization": "Dermatologist",
-      "experience": 10,
-      "location": "Los Angeles",
-      "date": "2023-05-26T15:00",
-      "slots": 2,
-      "fee": 150
-    },
-    {
-      "name": "Mark Johnson",
-      "image": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v868-sasi-06.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=4ade2163bbe65f9e94a3bcf8067e70bc",
-      "specialization": "Pediatrician",
-      "experience": 5,
-      "location": "Chicago",
-      "date": "2023-05-26T15:00",
-      "slots": 1,
-      "fee": 100
-    }
-  ]
+  "appointments": []
 }
